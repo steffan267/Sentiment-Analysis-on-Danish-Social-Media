@@ -41,6 +41,11 @@ The dataset consists of 9008 sentences that are labelled with fine-grained polar
 * Subtle expression of negative attitude towards individuals/person/objects.
 * A sentence that is near impossible to use positively (yet often negatively).
 
+-2:
+* Strong negative intensifiers or cursing.
+* Direct/clear negative sentiment towards topics, people or objects.
+* Many negative tokens e.g " :( :( :( :( :( ".
+
 # Thesis
 
 Read more about the dataset in our thesis here: (NOT PUBLISHED YET)

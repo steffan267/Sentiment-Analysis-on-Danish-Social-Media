@@ -63,7 +63,7 @@ Mads Guldborg Kjeldgaard Kongsbak
 Peter Due Jensen
 
 
-We grant permission to any non-commercial use of the software or associated documentations within this repository. This includes the rights to copy, modify, merge, publish og distribute. Anyone using the contents of this repository are subject to the following condition: 
+We grant permission to any non-commercial use of the software or documents within this repository. This includes the rights to copy, modify, merge, publish og distribute. Anyone using the contents of this repository are subject to the following condition: 
 
 Accredition of the creators
 

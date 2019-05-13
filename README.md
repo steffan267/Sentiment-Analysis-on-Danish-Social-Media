@@ -7,10 +7,10 @@ The dataset consists of 9008 sentences that are labelled with fine-grained polar
 
 # Guide lines used for annotation
 
-2:
-Positive action with positive intensifier.
-Direct positive sentiment towards topics, people or objects.
-Many tokens that indicate positivity e.g 
+*2:
+*Positive action with positive intensifier.
+*Direct positive sentiment towards topics, people or objects.
+*Many tokens that indicate positivity e.g 
 
 1:
 Turns something negative into something positive.

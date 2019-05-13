@@ -2,7 +2,7 @@
 This repo contains annotated data to do sentiment analysis with supervised learning in the danish language. The dataset was created specifically to classify sentences to the root comments of political articles on social media.
 
 The dataset consists of 9008 sentences that are labelled with fine-grained polarity in the range from -2 to 2 - negative to postive. The quality of the fine-grained is not cross-validated and is therefore subject to uncertainties; however, the simple polarity has been cross-validated and therefore is therefore more correct. Hereunder is the distrubution of the classes:
-![Dataset](https://raw.githubusercontent.com/steffan267/Sentiment-Analysis-on-Danish-Social-Media/master/DataStats.png?token=AETJESQQEM6HOUFALCJ73T243FZUO)
+![Dataset](https://raw.githubusercontent.com/steffan267/Sentiment-Analysis-on-Danish-Social-Media/master/DataStats.png)
 
 
 # Guide lines used for annotation

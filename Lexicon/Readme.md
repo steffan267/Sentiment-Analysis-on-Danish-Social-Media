@@ -1,23 +1,7 @@
-@InProceedings{NielsenF2011New,
-  author =       {Finn {\AA}rup Nielsen}, 
-  title =        {A new {ANEW}: evaluation of a word list for
-                  sentiment analysis in microblogs}, 
-  booktitle =    {Proceedings of the ESWC2011 Workshop on 'Making
-                  Sense of Microposts': Big things come in small
-                  packages}, 
-  pages =        {93--98},
-  year =         {2011},
-  editor =       {Matthew Rowe and Milan Stankovic and Aba-Sah Dadzie
-                  and Mariann Hardey},  
-  volume =       {718},
-  number =       {},
-  series =       {CEUR Workshop Proceedings},
-  address =      {},
-  organization = {},
-  publisher =    {},
-  month =        {May},
-  DOI =          {},
-  URL = {http://ceur-ws.org/Vol-718/paper_16.pdf},
-  OPTnote =      {},
-  OPTannote =    {}
-}
+
+
+
+
+This lexicon is an extension of ![Finn Årup Nielsens](https://github.com/fnielsen/afinn)
+A new ANEW: Evaluation of a word list for sentiment analysis in microblogs - 2011,
+http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6006/pdf/imm6006.pdf

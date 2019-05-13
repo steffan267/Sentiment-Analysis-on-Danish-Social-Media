@@ -3,10 +3,15 @@ This repo contains annotated data to do sentiment analysis with supervised learn
 
 
 License:
+
 Copyright (c) 2019 
+
 Steffan Eybye Christensen
+
 Lucas Høyberg Puvis de Chavannes
+
 Mads Guldborg Kjeldgaard Kongsbak
+
 Peter Due Jensen
 
 

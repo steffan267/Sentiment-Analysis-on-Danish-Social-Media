@@ -8,7 +8,7 @@ The dataset consists of fine-grained polarity in the range from -2 to 2 - negati
 2:
 Positive action with positive intensifier.
 Direct positive sentiment towards topics, people or objects.
-Many tokens that indicate positivity e.g \textless3  \textless3 \textless3 \textless3 \textless3.
+Many tokens that indicate positivity e.g 
 
 1:
 Turns something negative into something positive.

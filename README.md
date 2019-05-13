@@ -3,7 +3,7 @@ This repo contains annotated data to do sentiment analysis with supervised learn
 
 The dataset consists of fine-grained polarity in the range from -2 to 2 - negative to postive. The quality of the fine-grained is note cross-validated and is therefore subject to uncertainties; however, the polarity has been cross-validated.
 
-[[https://raw.githubusercontent.com/steffan267/Sentiment-Analysis-on-Danish-Social-Media/master/DataStats.png|alt=octocat]]]
+[[https://raw.githubusercontent.com/steffan267/Sentiment-Analysis-on-Danish-Social-Media/master/DataStats.png|alt=octocat]]
 # Guide lines used for annotation
 
 2:

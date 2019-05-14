@@ -73,4 +73,4 @@ The above copyright notice and these permission notices shall be included in all
 copies or substantial portions of the Software.
 
 Please contact us for any commercial use.
-
+steffaneybye@live.dk

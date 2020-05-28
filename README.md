@@ -53,24 +53,4 @@ The distribution of platforms collected from:<br/>
 [Read more about the dataset in our thesis](https://github.com/lucaspuvis/SAM/blob/master/Thesis.pdf)
 
 # License
-
-Copyright (c) 2019 
-
-Steffan Eybye Christensen
-
-Lucas Høyberg Puvis de Chavannes
-
-Mads Guldborg Kjeldgaard Kongsbak
-
-Peter Due Jensen
-
-
-We grant permission to any non-commercial use of the software or documents within this repository (excluding everything within the Lexicon folder - as the conents of said folder are subject to a derived license). This includes the rights to copy, modify, merge, publish and distribute. Anyone using the contents of this repository are subject to the following condition: 
-
-Accredition of the creators
-
-The above copyright notice and these permission notices shall be included in all
-copies or substantial portions of the Software.
-
-Please contact us for any commercial use:
-steffaneybye@live.dk
+Read the License text file in this folder

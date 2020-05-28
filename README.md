@@ -51,6 +51,3 @@ The distribution of platforms collected from:<br/>
 # Thesis
 
 [Read more about the dataset in our thesis](https://github.com/lucaspuvis/SAM/blob/master/Thesis.pdf)
-
-# License
-Read the License text file in this folder
